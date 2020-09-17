@@ -1,9 +1,5 @@
 ĐỌC FILE NÀY ĐỂ LÀM BÀI ĐÚNG
 
---STEP01: XEM VIDEO LAB05 ĐỂ BIẾT ĐỀ. NÊN XEM KỸ ĐỂ LÀM ĐÚNG YÊU CẦU ĐỀ
---STEP02: ĐỌC FILE NÀY
---STEP03: XEM THÊM FILE VIDEO ĐỂ HIỂU THÊM VỀ ĐỀ. BẮT ĐẦU TỪ PHÚT 45:00
-
 CÁC KHÁI NIỆM THUẬT NGỮ:
 documents are pre-processed before words are counted
 stemming: remove endings for words
